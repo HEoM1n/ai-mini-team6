@@ -1,0 +1,37 @@
+team: "Manchester City"
+manager: "펩 과르디올라"
+backup_manager: "루벤 아모"
+
+members:
+  - name: "덕배"
+    position: "Midfielder"
+    goals:
+      - minute: 15
+        against: "Chelsea"
+        type: "헤딩 골"
+
+  - name: "할란드"
+    position: "Forward"
+    goals:
+      - minute: 42
+        against: "Tottenham"
+        type: "페널티킥"
+      - minute: 88
+        against: "Tottenham"
+        type: "왼발 슛"
+
+  - name: "포든"
+    position: "Midfielder"
+    goals:
+      - minute: 75
+        against: "Arsenal"
+        type: "중거리 슛"
+
+match_info:
+  stadium: "Etihad Stadium"
+  date: "2025-09-12"
+  opponent: "Arsenal"
+  final_score: "2-0"
+  our_scorers:
+    - "덕배"
+    - "포든"
